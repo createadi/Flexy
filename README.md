@@ -33,7 +33,7 @@ Here is a preview:-
 
 ## 🤚 About Us
 
-Team Iconic:-
+Team Icons:-
 
  - Adita Verma ([Github Profile)](https://github.com/createadi)
  - Abhishek Kumar [(Github Profile)](https://github.com/abhik063)
