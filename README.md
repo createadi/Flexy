@@ -36,5 +36,5 @@ Team Icons:-
 
  - Adita Verma ([Github Profile)](https://github.com/createadi)
  - Abhishek Kumar [(Github Profile)](https://github.com/abhik063)
- - Ishan [(Github Profile)](https://github.com/Ishanbhatia98)
+ - Ishan Bhatia [(Github Profile)](https://github.com/Ishanbhatia98)
  - Manak Preet Singh
