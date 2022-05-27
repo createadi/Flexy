@@ -14,6 +14,9 @@ Greetings! Flexy is a project to let developers get started with they dev journe
 ## 👁‍🗨 Feature Preview
 
 Here is a preview:-
+![Capture1](https://user-images.githubusercontent.com/86531519/170728676-21185d75-cfbc-4b61-b847-776bbcc70e93.PNG)
+![Capture2](https://user-images.githubusercontent.com/86531519/170728866-4b2bae24-9113-46b1-bd46-0f0975e1df79.PNG)
+
 
 ## 🤝 Supported Frontend frameworks
 
