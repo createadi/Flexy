@@ -19,13 +19,12 @@ Here is a preview:-
 
  - <img src="https://img.icons8.com/office/32/000000/react.png"/> Reactjs
  - <img src="https://img.icons8.com/color/32/000000/flutter.png"/> Flutter
- - <img src="https://img.icons8.com/color/32/000000/django.png"/>Django
  
 
 ## 🤝 Supported Backend frameworks
 
  1. <img src="https://img.icons8.com/color/32/000000/nodejs.png"/> Node.js
- 2. <img src="https://img.icons8.com/fluency/32/000000/python.png"/> Python
+ 2. <img src="https://img.icons8.com/color/32/000000/django.png"/>Django
  3. <img src="https://img.icons8.com/color/32/000000/google-firebase-console.png"/> Google Firebase
  4. <img src="https://img.icons8.com/fluency/32/000000/laravel.png"/> Laravel 
  *(Note: Some framework may not be compatile with other frontend framework.)*
