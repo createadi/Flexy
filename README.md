@@ -1,5 +1,5 @@
 
-# Welcome to Flexy ( Lets get STARTED...🎉🎉)
+# Welcome to [Flexy](https://flexy01.herokuapp.com/) ( Lets get STARTED...🎉🎉)
 
 Greetings! Flexy is a project to let developers get started with they dev journey as soon as possible. It provides them with a starter kit for their rapid ussage.
 
