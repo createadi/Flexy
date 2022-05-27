@@ -63,10 +63,26 @@ select {
   border: 2px solid #566a92;
   border-radius: 4px;
   font-size: 16px;
+  text-align: center;
 }
-
+p{
+  padding: 12px 20px
+}
 option[value=""][disabled] {
   display: none;
+  
+  width: 100%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  margin-bottom: 4%;
+  height: 7vh;
+  background-color: #242424;
+  color: #fff;
+  border: 2px solid #566a92;
+  border-radius: 4px;
+  font-size: 16px;
+  
+
 }
 
 .createButton {
